@@ -5,11 +5,13 @@ This is a solution to the Digital Business Card solo project on Scrimba. The cha
 
 # Resources
 
-
 *   https://scrimba.com/learn/learnreact/
 *   https://www.figma.com/file/4ctPLUvIn5b5Ep6YPOZWWd/Digital-Business-Card?node-id=0%3A1
 *   This project was bootstrapped with Create React App.
 
+# Screenshot
+
+<img src="screenshot.png" />
 
 
 
