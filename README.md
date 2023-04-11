@@ -1,13 +1,16 @@
 
 # Digital Business Card
 
-This is a solution to the Digital Business Card solo project on Scrimba. Scrimba helps you improve your coding skills by building realistic projects.
+This is a solution to the Digital Business Card solo project on Scrimba. The challenge is to create a static/noninteractive react page that looks like one of the digital business cards found on Figma.com. This project was created locally using Create React App for bootstrapping (Scrimba encourages using their online environment).
 
-## Requirements
+# Resources
 
-    Build from scratch!
-    Fill in your own information
-    Separate componets for:
-        Info(photo, name, buttons, etc.)
-        About
-        Interests
+
+*   https://scrimba.com/learn/learnreact/
+*   https://www.figma.com/file/4ctPLUvIn5b5Ep6YPOZWWd/Digital-Business-Card?node-id=0%3A1
+*   This project was bootstrapped with Create React App.
+
+
+
+
+
